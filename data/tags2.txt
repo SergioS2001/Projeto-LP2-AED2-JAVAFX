@@ -1,0 +1,6 @@
+tag_id, tag_descricao
+0;nada a registar
+1;posto de abastecimento
+2;posto de abastecimento eletrico
+3;rua em asfalto
+4;rua em paralelo

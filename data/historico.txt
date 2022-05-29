@@ -1,0 +1,7 @@
+historico_id, dia, mes, ano, hora, minuto, user_name, pol_id
+1;1;1;2001;1;1;A;1
+1;2;4;2002;2;2;A;2
+2;2;4;2011;2;4;B;3
+11;13;21;2021;13;21;C;1
+
+

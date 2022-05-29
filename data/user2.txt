@@ -1,0 +1,10 @@
+user_id, user_tipo, user_nome, user_idade, user_adress
+8;Basic;Cesar;20;rua manuel
+5;Basic;Filipe;20;rua manuel
+9;Basic;Manuel;20;rua manuel
+1;Admin;Marcos;18;rua henrique
+7;Basic;Moreira;18;rua henrique
+2;Admin;Sergio;20;rua manuel
+4;Basic;Tiago;18;rua henrique
+6;Basic;Torres;20;rua manuel
+3;Basic;Viana;20;rua manuel

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<GridPane alignment="center" hgap="10" vgap="10" xmlns="http://javafx.com/javafx/16" xmlns:fx="http://javafx.com/fxml/1" fx:controller="graph.Controller">
+   <columnConstraints>
+      <ColumnConstraints />
+   </columnConstraints>
+   <rowConstraints>
+      <RowConstraints />
+   </rowConstraints>
+   <children>
+      <AnchorPane prefHeight="412.0" prefWidth="672.0">
+         <children>
+            <TabPane prefHeight="412.0" prefWidth="672.0" tabClosingPolicy="UNAVAILABLE">
+              <tabs>
+                <Tab text="Settings">
+                  <content>
+                    <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0">
+                           <children>
+                              <Label layoutX="53.0" layoutY="136.0" prefHeight="18.0" prefWidth="42.0" />
+                              <Button layoutX="93.0" layoutY="301.0" mnemonicParsing="false" onAction="#handleVerticesButtonAction" prefHeight="26.0" prefWidth="102.0" text="Vertices" />
+
+                           </children>
+                        </AnchorPane>
+                  </content>
+                </Tab>
+                <Tab text="Graph">
+                  <content>
+                    <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0">
+                           <children>
+                              <Group fx:id="graphGroup" layoutX="14.0" layoutY="14.0" />
+                           </children>
+                    </AnchorPane>
+                  </content>
+                </Tab>
+              </tabs>
+            </TabPane>
+         </children>
+      </AnchorPane>
+   </children>
+</GridPane>

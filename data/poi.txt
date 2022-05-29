@@ -1,0 +1,7 @@
+id_poi,tipo;argt
+0;Semaforo;ethry
+1;Museu;rtshysyh
+2;Biblioteca;rwyjyu
+4;Jardim;ywrjeu
+5;Posto de Abastecimento;tuekrf
+6;Posto eletrico;eukrug

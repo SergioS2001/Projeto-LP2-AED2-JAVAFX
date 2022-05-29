@@ -1,0 +1,7 @@
+poi_id, poi_tipo ,poi_caracteristica, poi_nodes
+0;Semaforo;ethry
+1;Museu;rtshysyh
+2;Biblioteca;rwyjyu
+4;Jardim;ywrjeu
+5;Posto de Abastecimento;tuekrf
+6;Posto eletrico;eukrug

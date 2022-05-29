@@ -1,0 +1,11 @@
+Adicionar;UserAdmin{id= 11, nome= 'QWERT', idade= 123, adress= 'RUA BLA'};
+Adicionar;Basic{id= 10, nome= 'ASD', idade= 123, adress= 'Rua bla bla bla'};
+Adicionar;UserAdmin{id= 11, nome= 'TESTE', idade= 123466, adress= 'TESTE RUA BLA BLA PDKQAWOFNWSEJOGN'};
+Adicionar User ;Basic{id= 10, nome= 'BLA', idade= 123, adress= 'Rua bla bla bla'};
+Adicionar Node ;Nodes{id_node=11, (x,12.0y)3.2, tipo_de_node='Semaforo, poI_id=0, tag_id=2'};
+Adicionar Node ;Nodes{id_node=11, (x,2.0y)1.0, tipo_de_node='Semaforo, poI_id=0, tag_id=2'};
+Remover Node;Nodes{id_node=2, (x,2.0y)8.0, tipo_de_node='Semaforo, poI_id=0, tag_id=0'};
+Editar Node ;Nodes{id_node=1, (x,20.0y)1.0, tipo_de_node='Semaforo, poI_id=0, tag_id=3'};
+Adicionar Pol ;Pol{id_pol=7, nome_pol='ASD', descricao='ASDASDASDASD'};
+Remover Pol ;Pol{id_pol=1, nome_pol='Museu', descricao='rtshysyh'};
+Remover User ;UserAdmin{id= 2, nome= 'Sergio', idade= 20, adress= 'rua manuel'};

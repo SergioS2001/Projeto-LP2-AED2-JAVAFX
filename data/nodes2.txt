@@ -1,0 +1,1 @@
+id_node, x, y, tag_id, tipo de node, nome_pol, descricao
